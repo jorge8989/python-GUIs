@@ -1,5 +1,5 @@
 import math
-from tkinter import *
+from Tkinter import *
 
 root = Tk()
 root.title("calculadora de IMC")
