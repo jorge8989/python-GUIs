@@ -55,5 +55,3 @@ label_meaning.grid(row=5, columnspan=2)
 
 
 root.mainloop()
-
-#http://stackoverflow.com/questions/17125842/python-3-tkinter-change-label-text
